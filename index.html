@@ -2,20 +2,31 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Transbo by NoemiNahomy</title>
+    <title>Transbo </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    <script>
+    var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibmFob215IiwiYSI6IlBFWjJtZTgifQ.pGj9OL0MgpvFD_FS2yFpHw', {
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+      maxZoom: 18,
+      id: 'nahomy.1edmi8h0',
+      accessToken: 'pk.eyJ1IjoibmFob215IiwiYSI6IlBFWjJtZTgifQ.pGj9OL0MgpvFD_FS2yFpHw'
+  }).addTo(mymap);
+    </script>
   </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">Transbo</h1>
-      <h2 class="project-tagline">transporte</h2>
+      <h2 class="project-tagline">El transporte en BOLIVIA</h2>
       <a href="https://github.com/NoemiNahomy/transbo" class="btn">View on GitHub</a>
-      <a href="https://github.com/NoemiNahomy/transbo/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/NoemiNahomy/transbo/tarball/master" class="btn">Download .tar.gz</a>
+      <!-- <a href="https://github.com/NoemiNahomy/transbo/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/NoemiNahomy/transbo/tarball/master" class="btn">Download .tar.gz</a> -->
     </section>
 
     <section class="main-content">
@@ -25,10 +36,9 @@
 <p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here <a href="https://guides.github.com/features/mastering-markdown/">using GitHub Flavored Markdown</a>, select a template crafted by a designer, and publish. After your page is generated, you can check out the new <code>gh-pages</code> branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.</p>
 
 <h3>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Designer Templates</h3>
 
-<p>We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.</p>
-
+<!-- <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Designer Templates</h3> -->
+ <div id="mapid"></div>
 <h3>
 <a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Creating pages manually</h3>
 
@@ -52,6 +62,6 @@
 
     </section>
 
-  
+
   </body>
 </html>
