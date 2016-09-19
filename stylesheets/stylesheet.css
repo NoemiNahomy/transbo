@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box; }
 
+
 body {
   padding: 0;
   margin: 0;
@@ -8,7 +9,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
-
+#mapid { height: 400px; }
 a {
   color: #1e6bb8;
   text-decoration: none; }
@@ -243,5 +244,3 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
-
-    #mapid { height: 180px; }
