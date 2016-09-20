@@ -51,7 +51,7 @@
 
         $.get("tourism.json", function(data, status){
 
-            var obj = JSON.parse(data);
+            var obj = data;
             var element = obj["elements"];
             element.forEach(function (item) {
                 console.log(item);
