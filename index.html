@@ -50,10 +50,16 @@
 
 
         $.get("tourism.json", function(data, status){
-               console.log(data);
+
+            var obj = JSON.parse(text);
+            var element = obj["elements"];
+            element.forEach(function (item) {
+                console.log(item);
+                L.marker([-16.4998901, -68.1387607]).addTo(mymap)
+ // 	.bindPopup("<b>Hola!</b><br />Bolivia").openPopup();
+            })
            });
-        // L.marker([51.5, -0.09]).addTo(mymap)
-        // 	.bindPopup("<b>Hola!</b><br />Bolivia").openPopup();
+
 
       </script>
       <footer class="site-footer">
