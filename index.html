@@ -48,6 +48,10 @@
         	id: 'nahomy.1edmi8h0'
         }).addTo(mymap);
 
+
+        $.get("tourism.json", function(data, status){
+               console.log(data);
+           });
         // L.marker([51.5, -0.09]).addTo(mymap)
         // 	.bindPopup("<b>Hola!</b><br />Bolivia").openPopup();
 

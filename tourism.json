@@ -1,0 +1,4605 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-09-20T03:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 561047825,
+  "lat": -16.4998901,
+  "lon": -68.1387607,
+  "tags": {
+    "addr:country": "BO",
+    "name": "Hotel Milton",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 561057066,
+  "lat": -16.4965912,
+  "lon": -68.1388657,
+  "tags": {
+    "addr:country": "BO",
+    "name": "Mercado de las Brujas",
+    "name:en": "Witches' Market",
+    "name:ko": "마녀 시장",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 561057069,
+  "lat": -16.4962105,
+  "lon": -68.1372233,
+  "tags": {
+    "addr:country": "BO",
+    "name": "Museo San Francisco",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 564373113,
+  "lat": -16.4963138,
+  "lon": -68.1342893,
+  "tags": {
+    "addr:country": "BO",
+    "name": "Museo de Arte Sacro",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 564373125,
+  "lat": -16.4958960,
+  "lon": -68.1343078,
+  "tags": {
+    "addr:country": "BO",
+    "name": "Museo Nacional del Arte",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 767614627,
+  "lat": -16.4984885,
+  "lon": -68.1370008,
+  "tags": {
+    "addr:country": "BO",
+    "designation": "1014",
+    "name": "Provenza Hostel",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 846163586,
+  "lat": -16.4941657,
+  "lon": -68.1377145,
+  "tags": {
+    "addr:country": "BO",
+    "name": "Tiquina Palace",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1412024178,
+  "lat": -16.4936469,
+  "lon": -68.1380331,
+  "tags": {
+    "name": "Tambo Quirquincho",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1446612972,
+  "lat": -16.5093564,
+  "lon": -68.1248140,
+  "tags": {
+    "name": "Ritz",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1502481454,
+  "lat": -16.4954211,
+  "lon": -68.1402852,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "704",
+    "addr:street": "Avenida Illampu",
+    "internet_access": "wlan;terminal",
+    "internet_access:fee": "no",
+    "name": "Hotel Rosario",
+    "old_name": "Residencial Rosario",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel",
+    "website": "http://www.hotelrosario.com/la-paz"
+  }
+},
+{
+  "type": "node",
+  "id": 1595505084,
+  "lat": -16.4984503,
+  "lon": -68.1463064,
+  "tags": {
+    "name": "Alojamiento Brissa",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "node",
+  "id": 1683767401,
+  "lat": -16.4950237,
+  "lon": -68.1347022,
+  "tags": {
+    "name": "Austria",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 1683767404,
+  "lat": -16.4932589,
+  "lon": -68.1367117,
+  "tags": {
+    "name": "Hostal Ingavi",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 1692712807,
+  "lat": -16.4977455,
+  "lon": -68.1382607,
+  "tags": {
+    "addr:street": "Linares",
+    "name": "Museo de la Coca",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1764442899,
+  "lat": -16.5023774,
+  "lon": -68.1620977,
+  "tags": {
+    "name": "Lucha Libre",
+    "name:en": "Cholita Wrestling",
+    "opening_hours": "Su 16:00+",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1868670899,
+  "lat": -16.5077272,
+  "lon": -68.1631212,
+  "tags": {
+    "name": "Alexander",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382444,
+  "lat": -16.4957910,
+  "lon": -68.1400858,
+  "tags": {
+    "name": "Estrella Andina Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382463,
+  "lat": -16.4977591,
+  "lon": -68.1387457,
+  "tags": {
+    "addr:street": "Calle Sagárnaga",
+    "name": "Maya",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382466,
+  "lat": -16.4943671,
+  "lon": -68.1407958,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hotel Continental",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382467,
+  "lat": -16.4970416,
+  "lon": -68.1386114,
+  "tags": {
+    "name": "Hotel Fuentes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382468,
+  "lat": -16.4941004,
+  "lon": -68.1378505,
+  "tags": {
+    "name": "Hotel La Valle",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382469,
+  "lat": -16.4963557,
+  "lon": -68.1392133,
+  "tags": {
+    "name": "Hotel Majestic",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382470,
+  "lat": -16.4956028,
+  "lon": -68.1423759,
+  "tags": {
+    "name": "Mercado Negro",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382471,
+  "lat": -16.5014855,
+  "lon": -68.1347638,
+  "tags": {
+    "name": "Onkel Inn",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 1893382473,
+  "lat": -16.5022406,
+  "lon": -68.1356560,
+  "tags": {
+    "name": "Residencial Sucre",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 2037680645,
+  "lat": -16.5091500,
+  "lon": -68.1487487,
+  "tags": {
+    "name": "Mirador Jacha Kollo",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 2038511777,
+  "lat": -16.5023513,
+  "lon": -68.1327425,
+  "tags": {
+    "name": "John Wesley",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2038559750,
+  "lat": -16.4989058,
+  "lon": -68.1375266,
+  "tags": {
+    "designation": "1011",
+    "name": "Hotel Nuevo Sol",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2038559755,
+  "lat": -16.4977125,
+  "lon": -68.1380577,
+  "tags": {
+    "addr:housenumber": "947",
+    "addr:street": "Linares",
+    "name": "Posada de la Abuela",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 2038580776,
+  "lat": -16.4992116,
+  "lon": -68.1374681,
+  "tags": {
+    "designation": "1045",
+    "name": "Lion Palace",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 2038580786,
+  "lat": -16.4993767,
+  "lon": -68.1376020,
+  "tags": {
+    "designation": "1062",
+    "name": "Alojamiento Linares",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 2038580789,
+  "lat": -16.4994384,
+  "lon": -68.1373869,
+  "tags": {
+    "designation": "1039",
+    "name": "Alojamiento Tipnis",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 2043295304,
+  "lat": -16.4817435,
+  "lon": -68.1225109,
+  "tags": {
+    "name": "Unicornio",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "node",
+  "id": 2048725668,
+  "lat": -16.4919331,
+  "lon": -68.1376854,
+  "tags": {
+    "addr:housenumber": "693",
+    "addr:street": "Avenida Montes",
+    "email": "arthyshouse@gmail.com",
+    "internet_access": "wlan",
+    "name": "Arthy's",
+    "name:es": "Arthy's Guesthouse",
+    "opening_hours": "24/7",
+    "phone": "+5912281439",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 2048732553,
+  "lat": -16.4922023,
+  "lon": -68.1381715,
+  "tags": {
+    "addr:street": "Avenida Montes",
+    "name": "Hotel Avenida",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2048760000,
+  "lat": -16.4929773,
+  "lon": -68.1354055,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2049672036,
+  "lat": -16.4955515,
+  "lon": -68.1275226,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2137518495,
+  "lat": -16.4767938,
+  "lon": -68.1209374,
+  "tags": {
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 2267673771,
+  "lat": -16.5041358,
+  "lon": -68.1623202,
+  "tags": {
+    "artist_name": "Félix Durán Zuazo",
+    "artwork_type": "statue",
+    "description": "Dispuesta en un alto pedestal de hormigón, tiene uno de sus pies sobre el dorso de un águila, en una mano carga un fusil y en la otra una paloma que representa la paz",
+    "height": "7.10",
+    "material": "metal",
+    "name": "Ernesto Che Guevara",
+    "start_date": "2008-07-05",
+    "support": "pedestal",
+    "tourism": "artwork",
+    "weight": "6000",
+    "wikipedia": "es:Ernesto_Guevara"
+  }
+},
+{
+  "type": "node",
+  "id": 2347274510,
+  "lat": -16.4968547,
+  "lon": -68.1373452,
+  "tags": {
+    "name": "Naira",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 2382622050,
+  "lat": -16.4959400,
+  "lon": -68.1405950,
+  "tags": {
+    "name": "Cruz de los Andes",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 2382983630,
+  "lat": -16.4957366,
+  "lon": -68.1335100,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Acta de la Junta Tuitiva",
+    "tourism": "artwork",
+    "wikipedia": "es:Plaza Murillo"
+  }
+},
+{
+  "type": "node",
+  "id": 2382983632,
+  "lat": -16.4956687,
+  "lon": -68.1334731,
+  "tags": {
+    "artist_name": "Horacio Ferruccio Cantella",
+    "artwork_type": "statue",
+    "height": "3",
+    "name": "Estatua Pedro Domingo Murillo",
+    "start_date": "1909",
+    "tourism": "artwork",
+    "wikipedia": "es:Plaza Murillo"
+  }
+},
+{
+  "type": "node",
+  "id": 2390993551,
+  "lat": -16.5251947,
+  "lon": -68.2005049,
+  "tags": {
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2410338515,
+  "lat": -16.5241103,
+  "lon": -68.1009808,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2410338516,
+  "lat": -16.5245964,
+  "lon": -68.1009861,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2410343863,
+  "lat": -16.5240177,
+  "lon": -68.1016568,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2612106351,
+  "lat": -16.4981294,
+  "lon": -68.1630389,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2614119860,
+  "lat": -16.4966014,
+  "lon": -68.1390556,
+  "tags": {
+    "name": "Hotel Cactus",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2712125132,
+  "lat": -16.4959767,
+  "lon": -68.1913113,
+  "tags": {
+    "addr:city": "El Alto",
+    "addr:housenumber": "1055",
+    "addr:street": "Avenida Juan Pablo II",
+    "name": "Hotel Mirador de los Andes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2872205463,
+  "lat": -16.5344569,
+  "lon": -68.1492134,
+  "tags": {
+    "addr:city": "El Alto",
+    "addr:housenumber": "50",
+    "addr:street": "Avenida Panorámica",
+    "contact:phone": "+591 2 2815492",
+    "name": "Mirador",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 2991624442,
+  "lat": -16.5062947,
+  "lon": -68.1293045,
+  "tags": {
+    "addr:street": "Avenida 6 de Agosto",
+    "building": "hotel",
+    "name": "Hotel España",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3124706197,
+  "lat": -16.5410124,
+  "lon": -68.0894915,
+  "tags": {
+    "addr:housenumber": "369",
+    "addr:postcode": "591",
+    "addr:street": "Avenida Ballivian",
+    "email": "supervisorcomercializacion@caminoreal.com.bo",
+    "fax": "+591 2 2791616",
+    "internet_access": "wlan",
+    "name": "Camino Real",
+    "phone": "+591 2 2792323",
+    "stars": "5",
+    "start_date": "2004",
+    "tourism": "hotel",
+    "website": "http://www.caminoreal.com.bo/"
+  }
+},
+{
+  "type": "node",
+  "id": 3170928569,
+  "lat": -16.4926187,
+  "lon": -68.1359738,
+  "tags": {
+    "name": "Ananay",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3313408829,
+  "lat": -16.4985325,
+  "lon": -68.1351615,
+  "tags": {
+    "artwork_type": "statue",
+    "historic": "memorial",
+    "inscription": "Aquí se encuentra el Monumento al \"Soldado desconocido\" en homenaje a los cientos de soldados caídos en la Guerra del Chaco, entre nuestro país y el Paraguay (1932 - 1935)",
+    "memorial:type": "statue",
+    "name": "Soldado desconocido",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3417488393,
+  "lat": -16.5196562,
+  "lon": -68.1513530,
+  "tags": {
+    "name": "Museo Antonio Paredes Candia",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3497491585,
+  "lat": -16.4886823,
+  "lon": -68.1397015,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:floor": "1",
+    "addr:housenumber": "367",
+    "addr:street": "Avenida Armentia",
+    "contact:fax": "+591 2 2282181",
+    "contact:phone": "+591 2 2281565;+591 2 2281050",
+    "name": "Tambo de Oro",
+    "operator": "Tambo de Oro SRL",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 3603612473,
+  "lat": -16.5145739,
+  "lon": -68.1631629,
+  "tags": {
+    "addr:city": "El Alto",
+    "addr:street": "Avenida Rodolfo Palenque",
+    "leisure": "pitch",
+    "name": "Lucha Libre Cholitas",
+    "name:en": "Fighting Cholitas",
+    "opening_hours": "Th-Su 16:30-19:30",
+    "sport": "wrestling",
+    "tourism": "attraction",
+    "wikipedia": "es:Lucha libre de cholitas",
+    "wikipedia:en": "Fighting_Cholitas"
+  }
+},
+{
+  "type": "node",
+  "id": 3616493580,
+  "lat": -16.4926807,
+  "lon": -68.1371282,
+  "tags": {
+    "addr:street": "Ingavi",
+    "internet_access": "wlan",
+    "name": "Bash n' Crash Backpackers Hostel",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 3618128094,
+  "lat": -16.4960253,
+  "lon": -68.1343929,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:postcode": "591",
+    "addr:street": "Socabaya",
+    "name": "TORINO",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3619639546,
+  "lat": -16.4942081,
+  "lon": -68.1219965,
+  "tags": {
+    "addr:city": "LA PAZ",
+    "addr:postcode": "591",
+    "addr:street": "Estados Unidos",
+    "name": "Hotel Dubai",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3645295152,
+  "lat": -16.5091136,
+  "lon": -68.1248626,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "2456",
+    "addr:street": "Avenida Arce",
+    "name": "Bolivian host",
+    "phone": "+591 72258723",
+    "smoking": "no",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 3666600106,
+  "lat": -16.4893152,
+  "lon": -68.1398486,
+  "tags": {
+    "artwork_type": "statue",
+    "material": "metal",
+    "name": "Ladislao Cabrera",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3666601131,
+  "lat": -16.4886142,
+  "lon": -68.1408347,
+  "tags": {
+    "information": "office",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 3733144847,
+  "lat": -16.4916106,
+  "lon": -68.1380642,
+  "tags": {
+    "description": "75 bolivianos for a double room with shared bathroom. 5 bolivianos extra for a shower. Parking on the next corner where you can parkyour motorcycle the whole night for 10BOB. No internet. (worldvespa Aug '15)",
+    "name": "Hotel Turini",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3770775958,
+  "lat": -16.5096796,
+  "lon": -68.1591155,
+  "tags": {
+    "artwork_type": "statue",
+    "material": "metal",
+    "name": "Juana Azurduy Bermúdez de Padilla",
+    "support": "pedestal",
+    "tourism": "artwork",
+    "wikidata": "Q761348",
+    "wikipedia": "es:Juana_Azurduy"
+  }
+},
+{
+  "type": "node",
+  "id": 3783975005,
+  "lat": -16.4923716,
+  "lon": -68.1365931,
+  "tags": {
+    "addr:housenumber": "693",
+    "addr:street": "Avenida Alto de la Alianza",
+    "internet_access": "wlan",
+    "name": "Bacoo Hostel",
+    "tourism": "hostel",
+    "website": "www.bacoohostel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3783975413,
+  "lat": -16.4929364,
+  "lon": -68.1330832,
+  "tags": {
+    "name": "Milenio Hostel",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 3824588200,
+  "lat": -16.5106258,
+  "lon": -68.1235369,
+  "tags": {
+    "name": "Landscape B&B - 12th floor",
+    "smoking": "no",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 3891187139,
+  "lat": -16.4958164,
+  "lon": -68.1513344,
+  "tags": {
+    "information": "map",
+    "name": "Mapa",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 3910608991,
+  "lat": -16.5078224,
+  "lon": -68.1330531,
+  "tags": {
+    "addr:housenumber": "745",
+    "addr:street": "Calle Harrington",
+    "ele": "3600",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "name": "B&B Piacere Hotel",
+    "opening_hours": "24/7",
+    "phone": "+591 71579850",
+    "smoking": "separated",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3920647677,
+  "lat": -16.5030326,
+  "lon": -68.1354672,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3984271766,
+  "lat": -16.5174645,
+  "lon": -68.1201910,
+  "tags": {
+    "name": "kantutani",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3984309756,
+  "lat": -16.5170425,
+  "lon": -68.1215616,
+  "tags": {
+    "name": "Los Novios",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3991554692,
+  "lat": -16.5042522,
+  "lon": -68.1312310,
+  "tags": {
+    "artwork_type": "statue",
+    "historic": "memorial",
+    "name": "Mariscal Antonio José de Sucre",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4005574219,
+  "lat": -16.4965849,
+  "lon": -68.1396029,
+  "tags": {
+    "addr:street": "Illampu",
+    "internet_access": "wlan",
+    "name": "Muzungu B&B Backpacker Hostel",
+    "opening_hours": "24/7",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327067,
+  "lat": -16.4993591,
+  "lon": -68.1829466,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327068,
+  "lat": -16.4996397,
+  "lon": -68.1799365,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327069,
+  "lat": -16.5036643,
+  "lon": -68.1826278,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327070,
+  "lat": -16.5037169,
+  "lon": -68.1829752,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327071,
+  "lat": -16.5038047,
+  "lon": -68.1823366,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327072,
+  "lat": -16.5039415,
+  "lon": -68.1827366,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327073,
+  "lat": -16.5041170,
+  "lon": -68.1825190,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327074,
+  "lat": -16.5042959,
+  "lon": -68.1822629,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327075,
+  "lat": -16.5066539,
+  "lon": -68.1708345,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327076,
+  "lat": -16.5104156,
+  "lon": -68.1692903,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327077,
+  "lat": -16.5111167,
+  "lon": -68.1724469,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327078,
+  "lat": -16.5111664,
+  "lon": -68.1738116,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327079,
+  "lat": -16.5113152,
+  "lon": -68.1720003,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327080,
+  "lat": -16.5113450,
+  "lon": -68.1734592,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327081,
+  "lat": -16.5117469,
+  "lon": -68.1711170,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327082,
+  "lat": -16.5117668,
+  "lon": -68.1706704,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4006327083,
+  "lat": -16.5120943,
+  "lon": -68.1707598,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4020908708,
+  "lat": -16.5050956,
+  "lon": -68.1236981,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4020908715,
+  "lat": -16.5051831,
+  "lon": -68.1236870,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4020908728,
+  "lat": -16.5053952,
+  "lon": -68.1234674,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4020908874,
+  "lat": -16.5093664,
+  "lon": -68.1243290,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4086769151,
+  "lat": -16.4919788,
+  "lon": -68.1394563,
+  "tags": {
+    "addr:housenumber": "531",
+    "addr:street": "Inca Mayta Kapac",
+    "name": "Hostal Maximiliano",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4089319634,
+  "lat": -16.4990465,
+  "lon": -68.1383468,
+  "tags": {
+    "name": "Hostal Iguazu",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4089320224,
+  "lat": -16.4989616,
+  "lon": -68.1377894,
+  "tags": {
+    "name": "Alojamiento La Riviera",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4089320458,
+  "lat": -16.4991291,
+  "lon": -68.1384464,
+  "tags": {
+    "name": "Alojamiento Pukara",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4090319262,
+  "lat": -16.5004452,
+  "lon": -68.1342796,
+  "tags": {
+    "addr:street": "Avenida 16 de Julio",
+    "information": "office",
+    "name": "Información Turística",
+    "name:en": "Tourist Information",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4098742697,
+  "lat": -16.4952009,
+  "lon": -68.1360319,
+  "tags": {
+    "information": "office",
+    "name": "Información Turística",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4098742945,
+  "lat": -16.4987293,
+  "lon": -68.1371484,
+  "tags": {
+    "name": "Alojamiento Chachapuma",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4106727490,
+  "lat": -16.4867131,
+  "lon": -68.1193198,
+  "tags": {
+    "name": "Cruz",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "node",
+  "id": 4120101489,
+  "lat": -16.4976106,
+  "lon": -68.1450797,
+  "tags": {
+    "addr:street": "Calle Batalla de Tarapaca",
+    "name": "Alojamiento CAMEL",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4127171402,
+  "lat": -16.4948904,
+  "lon": -68.1387873,
+  "tags": {
+    "name": "Sleep",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4128240373,
+  "lat": -16.4958048,
+  "lon": -68.1387145,
+  "tags": {
+    "name": "Blanquita",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4143809290,
+  "lat": -16.4953938,
+  "lon": -68.1387059,
+  "tags": {
+    "addr:housenumber": "764-c",
+    "addr:street": "Murillo",
+    "email": "alsigalhostal@gmail.com",
+    "internet_access": "wlan",
+    "name": "Alsigal Hostal",
+    "phone": "2369609",
+    "tourism": "hostel",
+    "website": "www.alsigalhostal.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4153978591,
+  "lat": -16.5192721,
+  "lon": -68.1320756,
+  "tags": {
+    "name": "Motel Olimpo",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "node",
+  "id": 4166990690,
+  "lat": -16.4956732,
+  "lon": -68.1403098,
+  "tags": {
+    "name": "Sol Andino Hostel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4169688496,
+  "lat": -16.4975992,
+  "lon": -68.1313150,
+  "tags": {
+    "addr:street": "Calle Comercio",
+    "name": "Wild Rover Backpackers ",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4169717689,
+  "lat": -16.4974855,
+  "lon": -68.1312716,
+  "tags": {
+    "addr:housenumber": "1455",
+    "addr:street": "Calle Comercio",
+    "name": "Hostal República ",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4177090092,
+  "lat": -16.4926960,
+  "lon": -68.1328146,
+  "tags": {
+    "addr:street": "Catacora",
+    "name": "el carretero",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4177091492,
+  "lat": -16.5177745,
+  "lon": -68.1263826,
+  "tags": {
+    "addr:street": "Prolongación Francisco Bedregal- Ingreso a la Naval",
+    "name": "moteles INN",
+    "opening_hours": "24/7",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "node",
+  "id": 4186115516,
+  "lat": -16.4962207,
+  "lon": -68.1399712,
+  "tags": {
+    "addr:housenumber": "742",
+    "addr:street": "Illampu",
+    "internet_access": "wlan",
+    "name": "Hotel Las Brisas",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4199063673,
+  "lat": -16.4965586,
+  "lon": -68.1390659,
+  "tags": {
+    "name": "Hospedaje Jiménez 812",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4207978092,
+  "lat": -16.4934908,
+  "lon": -68.1329660,
+  "tags": {
+    "addr:street": "Avenida Sucre",
+    "name": "Victoria Apart Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4209978187,
+  "lat": -16.5019375,
+  "lon": -68.1322183,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:street": "Avenida 16 de Julio",
+    "name": "Casa Prado",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4210192691,
+  "lat": -16.5166047,
+  "lon": -68.1261023,
+  "tags": {
+    "addr:street": "Cecilio Guzman de Rojas",
+    "name": "Le Petite",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "node",
+  "id": 4220842802,
+  "lat": -16.4882049,
+  "lon": -68.1426517,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:street": "Avenida Perú",
+    "name": "Hotel Latino",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4222946889,
+  "lat": -16.4934067,
+  "lon": -68.1326137,
+  "tags": {
+    "addr:street": "Calle Junín",
+    "name": "Latino",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4231492391,
+  "lat": -16.5096746,
+  "lon": -68.1264426,
+  "tags": {
+    "addr:housenumber": "383 mezzanine",
+    "addr:street": "Calle Belisario Salinas",
+    "name": "INYPSA",
+    "phone": "22126166",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4235060190,
+  "lat": -16.5193592,
+  "lon": -68.0910776,
+  "tags": {
+    "addr:street": "Calle 11 Bolognia",
+    "name": "Condominio Patiño",
+    "tourism": "chalet"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399128,
+  "lat": -16.4873240,
+  "lon": -68.1050571,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399150,
+  "lat": -16.4875542,
+  "lon": -68.1051194,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399198,
+  "lat": -16.4881580,
+  "lon": -68.1053092,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399267,
+  "lat": -16.4890668,
+  "lon": -68.1058765,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399292,
+  "lat": -16.4892265,
+  "lon": -68.1061001,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399305,
+  "lat": -16.4893703,
+  "lon": -68.1063321,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4242399329,
+  "lat": -16.4896204,
+  "lon": -68.1066352,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4249903171,
+  "lat": -16.4905766,
+  "lon": -68.1074466,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4261913089,
+  "lat": -16.4894983,
+  "lon": -68.1391563,
+  "tags": {
+    "addr:housenumber": "775",
+    "addr:street": "Pedro Kramer",
+    "email": "hostalperlanegra@hotmail.com ",
+    "internet_access": "wlan",
+    "name": "Hostal Perla Negra",
+    "opening_hours": "24/7",
+    "phone": "2287625",
+    "tourism": "hotel",
+    "website": "www.hostalperlanegra.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4280694089,
+  "lat": -16.4933213,
+  "lon": -68.1390595,
+  "tags": {
+    "name": "Loki Hostel",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4300799796,
+  "lat": -16.4954746,
+  "lon": -68.1386496,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "IntiWasi",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4306111291,
+  "lat": -16.4990036,
+  "lon": -68.1287271,
+  "tags": {
+    "addr:street": "Avenida Illimani",
+    "name": "Hotel Divina ",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4307400893,
+  "lat": -16.5087815,
+  "lon": -68.1332106,
+  "tags": {
+    "addr:housenumber": "1945",
+    "addr:street": "Calle Jose Reseguín",
+    "name": "Landscape B&B",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4318737624,
+  "lat": -16.5065446,
+  "lon": -68.1308767,
+  "tags": {
+    "addr:housenumber": "1982",
+    "addr:street": "Avenida Ecuador",
+    "name": "3600 Hostel",
+    "phone": "+591 22120478",
+    "tourism": "hostel",
+    "website": "www.3600hostel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4319038736,
+  "lat": -16.5108229,
+  "lon": -68.1358585,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Cristo Rey",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4319038737,
+  "lat": -16.5089745,
+  "lon": -68.1355984,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "El Condor",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4319038786,
+  "lat": -16.5113387,
+  "lon": -68.1367752,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4338768790,
+  "lat": -16.4933368,
+  "lon": -68.1376482,
+  "tags": {
+    "name": "Select",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4340590857,
+  "lat": -16.4960546,
+  "lon": -68.1332933,
+  "tags": {
+    "addr:street": "Calle Ayacucho",
+    "alt_name": "Km 0",
+    "description": "por decreto supremo 6283, 23 de noviembre de 1962",
+    "height": "1",
+    "image": "https://es.wikipedia.org/wiki/Archivo%3AKILOMETROCEROLAPAZBOLIVIAFOTOJOSELUISCLAROSLOPEZ.JPG",
+    "man_made": "survey_point",
+    "name": "Kilómetro Cero",
+    "pk": "0",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4341949170,
+  "lat": -16.4955635,
+  "lon": -68.1358337,
+  "tags": {
+    "name": "Hotel Gloria",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4341970932,
+  "lat": -16.4969429,
+  "lon": -68.1375078,
+  "tags": {
+    "addr:housenumber": "175",
+    "addr:street": "Calle Sagapnaga",
+    "name": "Eva Palace Hotel",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4349253793,
+  "lat": -16.4924746,
+  "lon": -68.1201871,
+  "tags": {
+    "name": "Museo de Textiles Andinos Bolivianos",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4349255181,
+  "lat": -16.4856995,
+  "lon": -68.1217939,
+  "tags": {
+    "artwork_type": "bust",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4349255275,
+  "lat": -16.4867283,
+  "lon": -68.1217430,
+  "tags": {
+    "artwork_type": "bust",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4349255355,
+  "lat": -16.4877699,
+  "lon": -68.1216947,
+  "tags": {
+    "artwork_type": "bust",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4351589493,
+  "lat": -16.5088858,
+  "lon": -68.1641437,
+  "tags": {
+    "addr:street": "Avenida 6 de Marzo",
+    "name": "Manaco Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4357994787,
+  "lat": -16.4961326,
+  "lon": -68.1397627,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Sajama Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4357994788,
+  "lat": -16.4962221,
+  "lon": -68.1397160,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Berlina Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4357995090,
+  "lat": -16.4967939,
+  "lon": -68.1395183,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hostal El Lobo",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4358006798,
+  "lat": -16.4976188,
+  "lon": -68.1388234,
+  "tags": {
+    "addr:street": "Calle Sagárnaga",
+    "name": "Hotel Alem",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4358006800,
+  "lat": -16.4974311,
+  "lon": -68.1386414,
+  "tags": {
+    "addr:housenumber": "326",
+    "addr:street": "Calle Sagárnaga",
+    "name": "Hotel Sagarnaga",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4358105190,
+  "lat": -16.5121269,
+  "lon": -68.1535300,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Faro Murillo",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4358632392,
+  "lat": -16.4749214,
+  "lon": -68.1181574,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "En Honor al Maestro",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4359000592,
+  "lat": -16.5143168,
+  "lon": -68.1290581,
+  "tags": {
+    "name": "Edificio Barcelona",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4359351577,
+  "lat": -16.4947758,
+  "lon": -68.1405779,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hotel Inca's Room",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4360765289,
+  "lat": -16.4957194,
+  "lon": -68.1384994,
+  "tags": {
+    "addr:housenumber": "776",
+    "addr:street": "Calle Murillo",
+    "name": "El Solario",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361666366,
+  "lat": -16.4957949,
+  "lon": -68.1402947,
+  "tags": {
+    "addr:street": "Calle Aroma",
+    "name": "Hotel Azul",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361666368,
+  "lat": -16.4959342,
+  "lon": -68.1400870,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hostal Copacabana",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361674534,
+  "lat": -16.4961023,
+  "lon": -68.1400078,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hotel Qantu",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361674535,
+  "lat": -16.4962726,
+  "lon": -68.1399333,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hostal Glorja",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361700691,
+  "lat": -16.4976376,
+  "lon": -68.1395924,
+  "tags": {
+    "addr:street": "Avenida Illampu",
+    "name": "Hostal",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361827489,
+  "lat": -16.4931981,
+  "lon": -68.1412935,
+  "tags": {
+    "addr:street": "Avenida America",
+    "name": "Hotel Cordillera Real",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361875299,
+  "lat": -16.4937085,
+  "lon": -68.1369120,
+  "tags": {
+    "addr:street": "Avenida Montes",
+    "name": "Monte Carlo Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361888376,
+  "lat": -16.4929295,
+  "lon": -68.1380191,
+  "tags": {
+    "addr:street": "Calle Serrano",
+    "name": "Hotel Oruro",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4362000910,
+  "lat": -16.4899940,
+  "lon": -68.1376855,
+  "tags": {
+    "addr:street": "Avenida Armentia",
+    "name": "Alojamiento Tola",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4362000911,
+  "lat": -16.4902313,
+  "lon": -68.1373944,
+  "tags": {
+    "addr:street": "Avenida Armentia",
+    "name": "Alojamiento Armentia",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4362038214,
+  "lat": -16.4930951,
+  "lon": -68.1336111,
+  "tags": {
+    "addr:street": "Avenida Sucre",
+    "name": "Ecobamboo Hostel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4362329638,
+  "lat": -16.5313966,
+  "lon": -68.1538021,
+  "tags": {
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4363872337,
+  "lat": -16.4872583,
+  "lon": -68.1425278,
+  "tags": {
+    "addr:street": "Calle Independencia",
+    "name": "Alojamiento Luz de la Independencia",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4364046165,
+  "lat": -16.4872530,
+  "lon": -68.1424037,
+  "tags": {
+    "addr:housenumber": "345",
+    "addr:street": "Calle Jose M Oquendo",
+    "name": "Hostal Condorito",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4365538677,
+  "lat": -16.4955185,
+  "lon": -68.1340234,
+  "tags": {
+    "name": "Boltur",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4365923798,
+  "lat": -16.5027776,
+  "lon": -68.1253034,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Marcelo Quiroga Santa Cruz",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4365923802,
+  "lat": -16.5012532,
+  "lon": -68.1258533,
+  "tags": {
+    "addr:street": "Avenida Simón Bolívar",
+    "name": "Museo Infantil Pipiripi",
+    "operator": "GAMLP",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4366381967,
+  "lat": -16.5014116,
+  "lon": -68.1339547,
+  "tags": {
+    "addr:street": "Calle Murillo",
+    "name": "Hotel Panamerican",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4366578561,
+  "lat": -16.5072676,
+  "lon": -68.1298525,
+  "tags": {
+    "addr:street": "Avenida 20 de Octubre",
+    "name": "Hotel Madre Tierra",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4366631864,
+  "lat": -16.5019203,
+  "lon": -68.1365236,
+  "tags": {
+    "addr:street": "Avenida 20 de Octubre",
+    "name": "Hostal Melody",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4366778590,
+  "lat": -16.5056477,
+  "lon": -68.1312935,
+  "tags": {
+    "addr:street": "Avenida 20 de Octubre",
+    "name": "Rey Palace Apart Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4366789542,
+  "lat": -16.5027539,
+  "lon": -68.1342188,
+  "tags": {
+    "addr:street": "Calle Cañada Strongest",
+    "name": "Hotel Flamingo",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4368395673,
+  "lat": -16.5011300,
+  "lon": -68.1228752,
+  "tags": {
+    "addr:street": "Avenida Bautista Saavedra",
+    "name": "Elegance Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4368900479,
+  "lat": -16.5161527,
+  "lon": -68.1294215,
+  "tags": {
+    "addr:housenumber": "766",
+    "addr:street": "Calle Ricardo Mujía",
+    "name": "Pirwa Hostel",
+    "phone": "+59122410044",
+    "tourism": "hostel",
+    "website": "https://www.pirwahostels.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4382955870,
+  "lat": -16.4952379,
+  "lon": -68.1274183,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4386472441,
+  "lat": -16.4937572,
+  "lon": -68.1418955,
+  "tags": {
+    "addr:street": "Avenida Manco Cápac",
+    "name": "Hotel Sayari",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4390393772,
+  "lat": -16.5056449,
+  "lon": -68.1606570,
+  "tags": {
+    "name": "Alojamiento",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4390487317,
+  "lat": -16.4950746,
+  "lon": -68.1441096,
+  "tags": {
+    "addr:street": "Avenida Buenos Aires",
+    "name": "Hotel Shalom",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4391247973,
+  "lat": -16.5159031,
+  "lon": -68.1549867,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4392750888,
+  "lat": -16.5020015,
+  "lon": -68.1354394,
+  "tags": {
+    "addr:street": "Calle Colombia",
+    "name": "Casa Colonial",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 4399094614,
+  "lat": -16.5351905,
+  "lon": -68.1648653,
+  "tags": {
+    "name": "Alojamiento",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 4399964591,
+  "lat": -16.4949558,
+  "lon": -68.1389413,
+  "tags": {
+    "name:fr": "jach'a inti",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4400064290,
+  "lat": -16.4942119,
+  "lon": -68.1339358,
+  "tags": {
+    "name:fr": "senorial",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4400098289,
+  "lat": -16.4951010,
+  "lon": -68.1388271,
+  "tags": {
+    "name:fr": "alsigal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4402094446,
+  "lat": -16.4992341,
+  "lon": -68.1839560,
+  "tags": {
+    "airplane": "yes",
+    "historic": "aircraft",
+    "name": "Avión",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4404272790,
+  "lat": -16.4976311,
+  "lon": -68.1312565,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Wild Rover Hostel",
+    "opening_hours": "24/7",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "way",
+  "id": 29262244,
+  "nodes": [
+    321799063,
+    2615891594,
+    2615891600,
+    2615891614,
+    2615891629,
+    2615891637,
+    321799064,
+    321799070,
+    321799087,
+    321799063
+  ],
+  "tags": {
+    "artist_name": "Posnansky",
+    "barrier": "wall",
+    "height": "2",
+    "historic": "monument",
+    "material": "stone",
+    "name": "Templete Semi-subterráneo",
+    "start_date": "1943",
+    "surface": "paving_stones",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 66376484,
+  "nodes": [
+    804305900,
+    804305907,
+    804305916,
+    804305921,
+    804305900
+  ],
+  "tags": {
+    "addr:country": "BO",
+    "addr:street": "Avenida Armentia",
+    "building": "yes",
+    "name": "Museo Costumbrista",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 125225477,
+  "nodes": [
+    1391504148,
+    4160070010,
+    4160070011,
+    1391504145,
+    1391504147,
+    1391504148
+  ],
+  "tags": {
+    "addr:country": "BO",
+    "amenity": "place_of_worship",
+    "building": "cathedral",
+    "denomination": "catholic",
+    "name": "Catedral Metropolitana",
+    "religion": "christian",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 130069077,
+  "nodes": [
+    1433706270,
+    1433706269,
+    1433706290,
+    1433706258,
+    1433706261,
+    1433706257,
+    1433706272,
+    1433706267,
+    1433706270
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:street": "Calle Tiahuanacu",
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Hotel Europa",
+    "smoking": "outside",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 187671474,
+  "nodes": [
+    2038476063,
+    2038476064,
+    2010516064,
+    2010516062,
+    2010516057,
+    1983028199,
+    1983028181,
+    1983028206,
+    2038476063
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Hotel Plaza",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 193355686,
+  "nodes": [
+    2038607099,
+    2038607097,
+    2038607096,
+    2038601896,
+    2038601893,
+    2038607103,
+    2038607098,
+    2038607100,
+    2038607104,
+    2038607101,
+    2038607102,
+    1617195362,
+    2038607099
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Tambo Colonial",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 194359192,
+  "nodes": [
+    2048759160,
+    2048759162,
+    2048759164,
+    2048759158,
+    2048759160
+  ],
+  "tags": {
+    "name": "Museo de Instrumentos Musicales",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 289807375,
+  "nodes": [
+    2933448929,
+    2933448930,
+    2933448931,
+    2933448932,
+    2933448929
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:street": "Calle 13",
+    "building": "hotel",
+    "name": "Hotel Galaooto",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 293968112,
+  "nodes": [
+    2975448172,
+    2975448173,
+    2975448174,
+    2975448175,
+    2975448172
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "1081",
+    "addr:street": "Avenida Sucre",
+    "building": "yes",
+    "name": "Hotel La Paz",
+    "phone": "(591-2) 2280021",
+    "tourism": "hotel",
+    "website": "www.hotellapazbolivia.com"
+  }
+},
+{
+  "type": "way",
+  "id": 364019549,
+  "nodes": [
+    3681278255,
+    3681278256,
+    3681278257,
+    3681278258,
+    3681278255
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "anticretico",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "way",
+  "id": 364019550,
+  "nodes": [
+    3681278259,
+    3681278260,
+    3681278269,
+    3681278261,
+    3681278262,
+    3681278263,
+    3681278264,
+    3681278265,
+    3681278266,
+    3681281963,
+    3681278267,
+    3681278268,
+    3681278259
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "way",
+  "id": 389268305,
+  "nodes": [
+    4389722327,
+    3924298691,
+    3924298692,
+    4389722324,
+    4389722325,
+    4389722326,
+    4389722327
+  ],
+  "tags": {
+    "addr:city": "Municipio El Alto",
+    "addr:street": "Calle Nuñez del Prado",
+    "building": "yes",
+    "name": "Museo Antonio Paredes Candia",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 436333734,
+  "nodes": [
+    4342021879,
+    4342021877,
+    4342021878,
+    4342021880,
+    4342021879
+  ],
+  "tags": {
+    "addr:housenumber": "641",
+    "addr:street": "Avenida Montes",
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Bunkie Hostel",
+    "opening_hours": "24/7",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "way",
+  "id": 436333735,
+  "nodes": [
+    4342022107,
+    4342022111,
+    4342022108,
+    4342022110,
+    4342022105,
+    4342022103,
+    4342022107
+  ],
+  "tags": {
+    "addr:street": "Calle Potosí",
+    "building": "yes",
+    "name": "Hotel Presidente",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "stars": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 437094230,
+  "nodes": [
+    4349254917,
+    4349254898,
+    4349254896,
+    4349254915,
+    4349254917
+  ],
+  "tags": {
+    "artist_name": "Hugo Almaraz",
+    "building": "yes",
+    "building:levels": "2",
+    "contact:email": "gabriel.ramirez@lapaz.bo",
+    "description": "Construcción de una pirámide simétrica de piedra comanche con escalinatas centrales, delante y detrás del monumento, de dos niveles, una superior y otro subterráneo y en su fachada luce decoraciones labradas en piedra en forma de cabezas de pumas",
+    "fee": "yes",
+    "historic": "memorial",
+    "name": "Museo de la Revolución",
+    "opening_hours": "Tu-Fr 09:00-12:30,14:30-19:00;Sa-Su 09:00-13:00",
+    "operator": "GAMLP",
+    "start_date": "1964-08-23",
+    "tomb": "mausoleum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 438427332,
+  "nodes": [
+    4361726300,
+    4361726301,
+    4361726302,
+    4361726303,
+    4361726300
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "1068",
+    "addr:street": "Calle Murillo",
+    "building": "yes",
+    "name": "Platinium Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 438428282,
+  "nodes": [
+    4361736626,
+    4361736627,
+    4361736628,
+    4361736629,
+    4361736626
+  ],
+  "tags": {
+    "addr:housenumber": "1698",
+    "addr:street": "Avenida 16 de Julio",
+    "building": "yes",
+    "name": "Museo de Arte Contemporáneo Plaza",
+    "name:en": "Museum of Contemporary Art",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 438732391,
+  "nodes": [
+    4364147664,
+    4364147660,
+    4364147665,
+    4364147666,
+    4364147663,
+    4364147664
+  ],
+  "tags": {
+    "addr:street": "Calle Carlos Bravo",
+    "building": "yes",
+    "name": "El Consulado",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 438832564,
+  "nodes": [
+    4364878123,
+    4364878124,
+    4364878125,
+    4364878126,
+    4364878123
+  ],
+  "tags": {
+    "addr:street": "Avenida Montes",
+    "building": "yes",
+    "name": "Hotel Aeronautico",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 438833262,
+  "nodes": [
+    4364883476,
+    4364883477,
+    4392922730,
+    4392922731,
+    4364883478,
+    4392922187,
+    4364883479,
+    4392922183,
+    4392922182,
+    4364883476
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "938",
+    "addr:street": "Avenida Mariscal Santa Cruz",
+    "building": "yes",
+    "contact:email": "restaurante@lacasonahotelboutique.com;info@lacasonahotelboutique.com",
+    "contact:fax": "+591 2 2333904",
+    "contact:phone": "+591 2 2900505",
+    "contact:website": "http://www.lacasonahotelboutique.com/",
+    "name": "La Casona Hotel Boutique",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 438843129,
+  "nodes": [
+    4364945741,
+    4364945742,
+    4364945743,
+    4364945744,
+    4364945741
+  ],
+  "tags": {
+    "addr:street": "Rotonda Plaza Isabel La Católica",
+    "building": "yes",
+    "name": "Hostal Paris",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "way",
+  "id": 438877668,
+  "nodes": [
+    4365268530,
+    4365268531,
+    4365268532,
+    4365268533,
+    4365268530
+  ],
+  "tags": {
+    "addr:country": "BO",
+    "area": "yes",
+    "building": "yes",
+    "name": "Museo de Etnografía y Folklore",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 439211154,
+  "nodes": [
+    4368434701,
+    4368434702,
+    4368434703,
+    4368434704,
+    4368434701
+  ],
+  "tags": {
+    "addr:street": "Calle Abel Iturralde",
+    "building": "yes",
+    "name": "Hotel Castilla",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 439300883,
+  "nodes": [
+    4369362204,
+    4369362203,
+    4369362202,
+    4369362206,
+    4369362209,
+    4369362210,
+    4369362212,
+    4369362208,
+    4369362204
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "5",
+    "building:material": "stone",
+    "description": "Réplica de la torre del reloj o torre elizabeth",
+    "historic": "yes",
+    "man_made": "tower",
+    "name": "Torre del reloj Big Ben",
+    "tourism": "attraction",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 439379283,
+  "nodes": [
+    4369943094,
+    4369984693,
+    4369943096,
+    4369984699,
+    4369943094
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "way",
+  "id": 439419827,
+  "nodes": [
+    4370328004,
+    4370328005,
+    4370328006,
+    4370328007,
+    4370328004
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "2145",
+    "addr:postcode": "591",
+    "addr:street": "Avenida Argentina",
+    "building": "yes",
+    "name": "Hotel Castellon",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 439922199,
+  "nodes": [
+    4375975598,
+    4375975599,
+    4375975600,
+    4375975601,
+    4375975598
+  ],
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:housenumber": "695",
+    "addr:street": "Avenida Julio Patiño",
+    "area": "yes",
+    "building": "yes",
+    "name": "Hotel Rennova",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 439933448,
+  "nodes": [
+    4376112439,
+    4376112440,
+    4376112441,
+    4376112442,
+    4376112443,
+    4376112444,
+    4376112445,
+    4376112446,
+    4376112447,
+    4376112448,
+    4376112449,
+    4376112450,
+    4376112439
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "yes",
+    "name": "Museo Nacional de Arqueología",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 439939271,
+  "nodes": [
+    4376293634,
+    4376293635,
+    4376293648,
+    4376293649,
+    4376293634
+  ],
+  "tags": {
+    "addr:street": "Avenida Villazón",
+    "building": "yes",
+    "name": "Hotel El Dorado",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 439940828,
+  "nodes": [
+    4376365187,
+    4376365188,
+    4376365589,
+    4376365590,
+    4376365187
+  ],
+  "tags": {
+    "addr:street": "Avenida 16 de Julio",
+    "building": "yes",
+    "name": "Hotel Copacabana",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440041459,
+  "nodes": [
+    4377441980,
+    4377441981,
+    4377441982,
+    4377441983,
+    4377441984,
+    4377441980
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento Valparaiso",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440041777,
+  "nodes": [
+    4377443647,
+    4377443648,
+    4377443649,
+    4377443650,
+    4377443647
+  ],
+  "tags": {
+    "addr:street": "Avenida Arequipa",
+    "building": "yes",
+    "name": "Los Sauces Apart Hotel",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440048789,
+  "nodes": [
+    4377502590,
+    4377502591,
+    4377502592,
+    4377502593,
+    4377502595,
+    4377502594,
+    4377502590
+  ],
+  "tags": {
+    "addr:street": "Avenida Arce",
+    "building": "yes",
+    "name": "Radisson",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440094327,
+  "nodes": [
+    4377979272,
+    4377979273,
+    4377979274,
+    4377979275,
+    4377979272
+  ],
+  "tags": {
+    "addr:street": "Avenida Roma",
+    "building": "yes",
+    "name": "Hostal Sur",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "way",
+  "id": 440229799,
+  "nodes": [
+    4379509373,
+    4379509374,
+    4379509375,
+    4379509376,
+    4379509377,
+    4379509378,
+    4379509373
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440412599,
+  "nodes": [
+    4381354713,
+    4381354714,
+    4381354715,
+    4381354716,
+    4381354713
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "way",
+  "id": 440414171,
+  "nodes": [
+    4381369263,
+    4381369264,
+    4381369265,
+    4381369266,
+    4381369263
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440889579,
+  "nodes": [
+    4386622442,
+    4386622443,
+    4386622444,
+    4386622445,
+    4386622442
+  ],
+  "tags": {
+    "addr:street": "Avenida Pando",
+    "building": "yes",
+    "name": "Hotel Pando",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 440979744,
+  "nodes": [
+    4387441909,
+    4387441910,
+    4387441911,
+    4387441912,
+    4387441909
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "way",
+  "id": 440990973,
+  "nodes": [
+    4387555108,
+    4387555109,
+    4387555110,
+    4387555111,
+    4387555108
+  ],
+  "tags": {
+    "amenity": "love_hotel",
+    "building": "yes",
+    "name": "Promesas De Amor",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "way",
+  "id": 441075874,
+  "nodes": [
+    4388395669,
+    4388395670,
+    4388395671,
+    4388395672,
+    4388395669
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "way",
+  "id": 441259417,
+  "nodes": [
+    4390219660,
+    4390219661,
+    4390219662,
+    4390219663,
+    4390219660
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "yes",
+    "name": "Alojamiento Rolando",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "way",
+  "id": 441277802,
+  "nodes": [
+    4390393765,
+    4390393766,
+    4390393771,
+    4390393767,
+    4390393768,
+    4390393765
+  ],
+  "tags": {
+    "amenity": "sauna",
+    "amenity_1": "pool",
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 441277803,
+  "nodes": [
+    4390393766,
+    4390393769,
+    4390393770,
+    4390393771,
+    4390393766
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 441462541,
+  "nodes": [
+    4392036587,
+    4392036588,
+    4392041589,
+    4392041590,
+    4392036587
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alojamiento",
+    "tourism": "motel"
+  }
+},
+{
+  "type": "way",
+  "id": 441483573,
+  "nodes": [
+    4392268992,
+    4392268993,
+    4392268994,
+    4392268995,
+    4392268992
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Hotel Emperia",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4379509373,
+  "lat": -16.5304007,
+  "lon": -68.1952415
+},
+{
+  "type": "node",
+  "id": 4379509374,
+  "lat": -16.5304805,
+  "lon": -68.1951571
+},
+{
+  "type": "node",
+  "id": 4379509375,
+  "lat": -16.5305652,
+  "lon": -68.1952443
+},
+{
+  "type": "node",
+  "id": 4379509376,
+  "lat": -16.5305173,
+  "lon": -68.1952949
+},
+{
+  "type": "node",
+  "id": 4379509377,
+  "lat": -16.5305414,
+  "lon": -68.1953197
+},
+{
+  "type": "node",
+  "id": 4379509378,
+  "lat": -16.5305095,
+  "lon": -68.1953535
+},
+{
+  "type": "node",
+  "id": 4381354713,
+  "lat": -16.5163896,
+  "lon": -68.1664426
+},
+{
+  "type": "node",
+  "id": 4381354714,
+  "lat": -16.5164364,
+  "lon": -68.1662877
+},
+{
+  "type": "node",
+  "id": 4381354715,
+  "lat": -16.5163606,
+  "lon": -68.1662628
+},
+{
+  "type": "node",
+  "id": 4381354716,
+  "lat": -16.5163138,
+  "lon": -68.1664177
+},
+{
+  "type": "node",
+  "id": 4387441909,
+  "lat": -16.5152304,
+  "lon": -68.1616262
+},
+{
+  "type": "node",
+  "id": 4387441910,
+  "lat": -16.5152718,
+  "lon": -68.1615584
+},
+{
+  "type": "node",
+  "id": 4387441911,
+  "lat": -16.5151774,
+  "lon": -68.1614956
+},
+{
+  "type": "node",
+  "id": 4387441912,
+  "lat": -16.5151360,
+  "lon": -68.1615634
+},
+{
+  "type": "node",
+  "id": 4390219660,
+  "lat": -16.5118271,
+  "lon": -68.1577528
+},
+{
+  "type": "node",
+  "id": 4390219661,
+  "lat": -16.5118869,
+  "lon": -68.1577158
+},
+{
+  "type": "node",
+  "id": 4390219662,
+  "lat": -16.5117963,
+  "lon": -68.1575564
+},
+{
+  "type": "node",
+  "id": 4392036587,
+  "lat": -16.4999134,
+  "lon": -68.1742465
+},
+{
+  "type": "node",
+  "id": 4392036588,
+  "lat": -16.4999265,
+  "lon": -68.1741753
+},
+{
+  "type": "node",
+  "id": 4392041589,
+  "lat": -16.4997400,
+  "lon": -68.1742490
+},
+{
+  "type": "node",
+  "id": 4392041590,
+  "lat": -16.4997610,
+  "lon": -68.1743067
+},
+{
+  "type": "node",
+  "id": 4381369263,
+  "lat": -16.5115538,
+  "lon": -68.1615096
+},
+{
+  "type": "node",
+  "id": 4381369264,
+  "lat": -16.5114446,
+  "lon": -68.1614763
+},
+{
+  "type": "node",
+  "id": 4381369265,
+  "lat": -16.5114781,
+  "lon": -68.1613566
+},
+{
+  "type": "node",
+  "id": 4381369266,
+  "lat": -16.5116115,
+  "lon": -68.1613036
+},
+{
+  "type": "node",
+  "id": 4390219663,
+  "lat": -16.5117365,
+  "lon": -68.1575934
+},
+{
+  "type": "node",
+  "id": 4390393765,
+  "lat": -16.5057770,
+  "lon": -68.1606315
+},
+{
+  "type": "node",
+  "id": 4390393766,
+  "lat": -16.5058397,
+  "lon": -68.1606146
+},
+{
+  "type": "node",
+  "id": 4390393767,
+  "lat": -16.5058019,
+  "lon": -68.1604666
+},
+{
+  "type": "node",
+  "id": 4390393768,
+  "lat": -16.5057385,
+  "lon": -68.1604846
+},
+{
+  "type": "node",
+  "id": 4390393769,
+  "lat": -16.5058787,
+  "lon": -68.1606032
+},
+{
+  "type": "node",
+  "id": 4390393770,
+  "lat": -16.5058422,
+  "lon": -68.1604665
+},
+{
+  "type": "node",
+  "id": 4390393771,
+  "lat": -16.5058032,
+  "lon": -68.1604778
+},
+{
+  "type": "node",
+  "id": 3924298691,
+  "lat": -16.5198598,
+  "lon": -68.1515505
+},
+{
+  "type": "node",
+  "id": 3924298692,
+  "lat": -16.5198794,
+  "lon": -68.1514980
+},
+{
+  "type": "node",
+  "id": 4389722324,
+  "lat": -16.5198193,
+  "lon": -68.1512424
+},
+{
+  "type": "node",
+  "id": 4389722325,
+  "lat": -16.5196155,
+  "lon": -68.1512949
+},
+{
+  "type": "node",
+  "id": 4389722326,
+  "lat": -16.5195579,
+  "lon": -68.1513672
+},
+{
+  "type": "node",
+  "id": 4389722327,
+  "lat": -16.5195384,
+  "lon": -68.1514194
+},
+{
+  "type": "node",
+  "id": 4369943094,
+  "lat": -16.5144455,
+  "lon": -68.1557013
+},
+{
+  "type": "node",
+  "id": 4369943096,
+  "lat": -16.5144634,
+  "lon": -68.1555169
+},
+{
+  "type": "node",
+  "id": 4369984693,
+  "lat": -16.5143749,
+  "lon": -68.1555678
+},
+{
+  "type": "node",
+  "id": 4369984699,
+  "lat": -16.5145338,
+  "lon": -68.1556505
+},
+{
+  "type": "node",
+  "id": 4387555108,
+  "lat": -16.5169419,
+  "lon": -68.1563658
+},
+{
+  "type": "node",
+  "id": 4387555109,
+  "lat": -16.5168613,
+  "lon": -68.1563074
+},
+{
+  "type": "node",
+  "id": 4387555110,
+  "lat": -16.5169915,
+  "lon": -68.1561121
+},
+{
+  "type": "node",
+  "id": 4387555111,
+  "lat": -16.5170721,
+  "lon": -68.1561705
+},
+{
+  "type": "node",
+  "id": 4388395669,
+  "lat": -16.5124695,
+  "lon": -68.1565816
+},
+{
+  "type": "node",
+  "id": 4388395670,
+  "lat": -16.5125265,
+  "lon": -68.1566853
+},
+{
+  "type": "node",
+  "id": 4388395671,
+  "lat": -16.5126282,
+  "lon": -68.1566245
+},
+{
+  "type": "node",
+  "id": 4388395672,
+  "lat": -16.5125712,
+  "lon": -68.1565209
+},
+{
+  "type": "node",
+  "id": 4392268992,
+  "lat": -16.5090537,
+  "lon": -68.1359409
+},
+{
+  "type": "node",
+  "id": 4392268993,
+  "lat": -16.5091165,
+  "lon": -68.1358566
+},
+{
+  "type": "node",
+  "id": 4392268994,
+  "lat": -16.5091925,
+  "lon": -68.1359182
+},
+{
+  "type": "node",
+  "id": 4392268995,
+  "lat": -16.5091297,
+  "lon": -68.1360025
+},
+{
+  "type": "node",
+  "id": 4377441980,
+  "lat": -16.5011473,
+  "lon": -68.1382752
+},
+{
+  "type": "node",
+  "id": 4377441981,
+  "lat": -16.5011843,
+  "lon": -68.1382684
+},
+{
+  "type": "node",
+  "id": 4377441982,
+  "lat": -16.5012339,
+  "lon": -68.1382002
+},
+{
+  "type": "node",
+  "id": 4377441983,
+  "lat": -16.5011437,
+  "lon": -68.1381289
+},
+{
+  "type": "node",
+  "id": 4377441984,
+  "lat": -16.5010775,
+  "lon": -68.1382200
+},
+{
+  "type": "node",
+  "id": 4361726300,
+  "lat": -16.4993889,
+  "lon": -68.1364769
+},
+{
+  "type": "node",
+  "id": 4361726301,
+  "lat": -16.4992549,
+  "lon": -68.1365686
+},
+{
+  "type": "node",
+  "id": 4361726302,
+  "lat": -16.4993382,
+  "lon": -68.1367011
+},
+{
+  "type": "node",
+  "id": 4361726303,
+  "lat": -16.4994722,
+  "lon": -68.1366094
+},
+{
+  "type": "node",
+  "id": 4361736626,
+  "lat": -16.5028267,
+  "lon": -68.1322582
+},
+{
+  "type": "node",
+  "id": 4361736627,
+  "lat": -16.5029557,
+  "lon": -68.1321673
+},
+{
+  "type": "node",
+  "id": 4361736628,
+  "lat": -16.5030254,
+  "lon": -68.1322750
+},
+{
+  "type": "node",
+  "id": 4361736629,
+  "lat": -16.5028964,
+  "lon": -68.1323659
+},
+{
+  "type": "node",
+  "id": 1983028199,
+  "lat": -16.5028556,
+  "lon": -68.1312631
+},
+{
+  "type": "node",
+  "id": 1983028206,
+  "lat": -16.5031920,
+  "lon": -68.1314595
+},
+{
+  "type": "node",
+  "id": 2010516057,
+  "lat": -16.5029275,
+  "lon": -68.1313773
+},
+{
+  "type": "node",
+  "id": 2010516062,
+  "lat": -16.5029732,
+  "lon": -68.1313460
+},
+{
+  "type": "node",
+  "id": 2010516064,
+  "lat": -16.5030011,
+  "lon": -68.1313903
+},
+{
+  "type": "node",
+  "id": 2038476063,
+  "lat": -16.5030188,
+  "lon": -68.1315751
+},
+{
+  "type": "node",
+  "id": 2038476064,
+  "lat": -16.5029350,
+  "lon": -68.1314325
+},
+{
+  "type": "node",
+  "id": 4376365187,
+  "lat": -16.5036823,
+  "lon": -68.1316153
+},
+{
+  "type": "node",
+  "id": 4376365188,
+  "lat": -16.5037332,
+  "lon": -68.1316903
+},
+{
+  "type": "node",
+  "id": 4376365589,
+  "lat": -16.5036116,
+  "lon": -68.1318447
+},
+{
+  "type": "node",
+  "id": 4376365590,
+  "lat": -16.5035314,
+  "lon": -68.1317267
+},
+{
+  "type": "node",
+  "id": 4377502590,
+  "lat": -16.5067299,
+  "lon": -68.1274527
+},
+{
+  "type": "node",
+  "id": 4377502591,
+  "lat": -16.5068330,
+  "lon": -68.1273633
+},
+{
+  "type": "node",
+  "id": 4377502592,
+  "lat": -16.5063585,
+  "lon": -68.1267685
+},
+{
+  "type": "node",
+  "id": 4377502593,
+  "lat": -16.5062554,
+  "lon": -68.1268579
+},
+{
+  "type": "node",
+  "id": 4377502594,
+  "lat": -16.5066828,
+  "lon": -68.1273936
+},
+{
+  "type": "node",
+  "id": 4377502595,
+  "lat": -16.5065090,
+  "lon": -68.1271872
+},
+{
+  "type": "node",
+  "id": 4364945741,
+  "lat": -16.5097109,
+  "lon": -68.1245804
+},
+{
+  "type": "node",
+  "id": 4364945742,
+  "lat": -16.5097872,
+  "lon": -68.1246675
+},
+{
+  "type": "node",
+  "id": 4364945743,
+  "lat": -16.5098755,
+  "lon": -68.1245833
+},
+{
+  "type": "node",
+  "id": 4364945744,
+  "lat": -16.5097702,
+  "lon": -68.1244631
+},
+{
+  "type": "node",
+  "id": 1433706257,
+  "lat": -16.5026637,
+  "lon": -68.1306541
+},
+{
+  "type": "node",
+  "id": 1433706258,
+  "lat": -16.5027151,
+  "lon": -68.1308284
+},
+{
+  "type": "node",
+  "id": 1433706261,
+  "lat": -16.5027203,
+  "lon": -68.1307613
+},
+{
+  "type": "node",
+  "id": 1433706267,
+  "lat": -16.5024993,
+  "lon": -68.1307023
+},
+{
+  "type": "node",
+  "id": 1433706269,
+  "lat": -16.5025455,
+  "lon": -68.1308713
+},
+{
+  "type": "node",
+  "id": 1433706270,
+  "lat": -16.5024864,
+  "lon": -68.1307479
+},
+{
+  "type": "node",
+  "id": 1433706272,
+  "lat": -16.5025841,
+  "lon": -68.1306406
+},
+{
+  "type": "node",
+  "id": 1433706290,
+  "lat": -16.5026098,
+  "lon": -68.1308901
+},
+{
+  "type": "node",
+  "id": 1983028181,
+  "lat": -16.5030042,
+  "lon": -68.1311613
+},
+{
+  "type": "node",
+  "id": 4364147660,
+  "lat": -16.5028056,
+  "lon": -68.1309662
+},
+{
+  "type": "node",
+  "id": 4364147663,
+  "lat": -16.5028537,
+  "lon": -68.1311695
+},
+{
+  "type": "node",
+  "id": 4364147664,
+  "lat": -16.5027518,
+  "lon": -68.1310017
+},
+{
+  "type": "node",
+  "id": 4364147665,
+  "lat": -16.5028718,
+  "lon": -68.1309196
+},
+{
+  "type": "node",
+  "id": 4364147666,
+  "lat": -16.5029777,
+  "lon": -68.1310883
+},
+{
+  "type": "node",
+  "id": 4376112439,
+  "lat": -16.5026176,
+  "lon": -68.1305896
+},
+{
+  "type": "node",
+  "id": 4376112440,
+  "lat": -16.5025844,
+  "lon": -68.1305356
+},
+{
+  "type": "node",
+  "id": 4376112441,
+  "lat": -16.5025336,
+  "lon": -68.1305696
+},
+{
+  "type": "node",
+  "id": 4376112442,
+  "lat": -16.5024613,
+  "lon": -68.1304520
+},
+{
+  "type": "node",
+  "id": 4376112443,
+  "lat": -16.5025104,
+  "lon": -68.1304191
+},
+{
+  "type": "node",
+  "id": 4376112444,
+  "lat": -16.5024711,
+  "lon": -68.1303552
+},
+{
+  "type": "node",
+  "id": 4376112445,
+  "lat": -16.5023384,
+  "lon": -68.1304439
+},
+{
+  "type": "node",
+  "id": 4376112446,
+  "lat": -16.5023621,
+  "lon": -68.1304824
+},
+{
+  "type": "node",
+  "id": 4376112447,
+  "lat": -16.5022966,
+  "lon": -68.1305263
+},
+{
+  "type": "node",
+  "id": 4376112448,
+  "lat": -16.5023848,
+  "lon": -68.1306697
+},
+{
+  "type": "node",
+  "id": 4376112449,
+  "lat": -16.5024538,
+  "lon": -68.1306235
+},
+{
+  "type": "node",
+  "id": 4376112450,
+  "lat": -16.5024868,
+  "lon": -68.1306772
+},
+{
+  "type": "node",
+  "id": 4376293634,
+  "lat": -16.5046167,
+  "lon": -68.1309572
+},
+{
+  "type": "node",
+  "id": 4376293635,
+  "lat": -16.5047443,
+  "lon": -68.1310872
+},
+{
+  "type": "node",
+  "id": 4376293648,
+  "lat": -16.5048283,
+  "lon": -68.1309975
+},
+{
+  "type": "node",
+  "id": 4376293649,
+  "lat": -16.5047008,
+  "lon": -68.1308675
+},
+{
+  "type": "node",
+  "id": 4370328004,
+  "lat": -16.5043952,
+  "lon": -68.1205164
+},
+{
+  "type": "node",
+  "id": 4370328005,
+  "lat": -16.5045204,
+  "lon": -68.1205854
+},
+{
+  "type": "node",
+  "id": 4370328006,
+  "lat": -16.5045943,
+  "lon": -68.1204397
+},
+{
+  "type": "node",
+  "id": 4370328007,
+  "lat": -16.5044690,
+  "lon": -68.1203707
+},
+{
+  "type": "node",
+  "id": 321799063,
+  "lat": -16.4994016,
+  "lon": -68.1242729
+},
+{
+  "type": "node",
+  "id": 321799064,
+  "lat": -16.4996666,
+  "lon": -68.1242683
+},
+{
+  "type": "node",
+  "id": 321799070,
+  "lat": -16.4996623,
+  "lon": -68.1240247
+},
+{
+  "type": "node",
+  "id": 321799087,
+  "lat": -16.4993973,
+  "lon": -68.1240294
+},
+{
+  "type": "node",
+  "id": 2615891594,
+  "lat": -16.4995109,
+  "lon": -68.1242710
+},
+{
+  "type": "node",
+  "id": 2615891600,
+  "lat": -16.4995211,
+  "lon": -68.1242708
+},
+{
+  "type": "node",
+  "id": 2615891614,
+  "lat": -16.4995351,
+  "lon": -68.1242706
+},
+{
+  "type": "node",
+  "id": 2615891629,
+  "lat": -16.4995485,
+  "lon": -68.1242704
+},
+{
+  "type": "node",
+  "id": 2615891637,
+  "lat": -16.4995643,
+  "lon": -68.1242701
+},
+{
+  "type": "node",
+  "id": 4377979272,
+  "lat": -16.5414826,
+  "lon": -68.0932378
+},
+{
+  "type": "node",
+  "id": 4377979273,
+  "lat": -16.5415095,
+  "lon": -68.0931816
+},
+{
+  "type": "node",
+  "id": 4377979274,
+  "lat": -16.5413232,
+  "lon": -68.0930844
+},
+{
+  "type": "node",
+  "id": 4377979275,
+  "lat": -16.5412963,
+  "lon": -68.0931406
+},
+{
+  "type": "node",
+  "id": 4377443647,
+  "lat": -16.5450229,
+  "lon": -68.0911346
+},
+{
+  "type": "node",
+  "id": 4377443648,
+  "lat": -16.5450695,
+  "lon": -68.0913383
+},
+{
+  "type": "node",
+  "id": 4377443649,
+  "lat": -16.5452091,
+  "lon": -68.0913035
+},
+{
+  "type": "node",
+  "id": 4377443650,
+  "lat": -16.5451624,
+  "lon": -68.0910999
+},
+{
+  "type": "node",
+  "id": 2933448929,
+  "lat": -16.5408538,
+  "lon": -68.0860266
+},
+{
+  "type": "node",
+  "id": 2933448930,
+  "lat": -16.5406773,
+  "lon": -68.0859334
+},
+{
+  "type": "node",
+  "id": 2933448931,
+  "lat": -16.5407852,
+  "lon": -68.0857108
+},
+{
+  "type": "node",
+  "id": 2933448932,
+  "lat": -16.5409618,
+  "lon": -68.0858040
+},
+{
+  "type": "node",
+  "id": 4375975598,
+  "lat": -16.5419115,
+  "lon": -68.0858707
+},
+{
+  "type": "node",
+  "id": 4375975599,
+  "lat": -16.5421791,
+  "lon": -68.0857888
+},
+{
+  "type": "node",
+  "id": 4375975600,
+  "lat": -16.5422137,
+  "lon": -68.0859117
+},
+{
+  "type": "node",
+  "id": 4375975601,
+  "lat": -16.5419461,
+  "lon": -68.0859936
+},
+{
+  "type": "node",
+  "id": 4386622442,
+  "lat": -16.4924370,
+  "lon": -68.1409119
+},
+{
+  "type": "node",
+  "id": 4386622443,
+  "lat": -16.4925385,
+  "lon": -68.1411025
+},
+{
+  "type": "node",
+  "id": 4386622444,
+  "lat": -16.4926226,
+  "lon": -68.1410538
+},
+{
+  "type": "node",
+  "id": 4386622445,
+  "lat": -16.4925211,
+  "lon": -68.1408632
+},
+{
+  "type": "node",
+  "id": 4364878123,
+  "lat": -16.4928530,
+  "lon": -68.1375285
+},
+{
+  "type": "node",
+  "id": 4364878124,
+  "lat": -16.4930502,
+  "lon": -68.1374257
+},
+{
+  "type": "node",
+  "id": 4364878125,
+  "lat": -16.4931631,
+  "lon": -68.1376613
+},
+{
+  "type": "node",
+  "id": 4364878126,
+  "lat": -16.4929660,
+  "lon": -68.1377641
+},
+{
+  "type": "node",
+  "id": 4364883476,
+  "lat": -16.4967527,
+  "lon": -68.1366692
+},
+{
+  "type": "node",
+  "id": 4364883477,
+  "lat": -16.4968835,
+  "lon": -68.1365917
+},
+{
+  "type": "node",
+  "id": 4364883478,
+  "lat": -16.4970714,
+  "lon": -68.1369363
+},
+{
+  "type": "node",
+  "id": 4364883479,
+  "lat": -16.4969407,
+  "lon": -68.1370139
+},
+{
+  "type": "node",
+  "id": 4365268530,
+  "lat": -16.4943278,
+  "lon": -68.1351530
+},
+{
+  "type": "node",
+  "id": 4365268531,
+  "lat": -16.4945967,
+  "lon": -68.1353273
+},
+{
+  "type": "node",
+  "id": 4365268532,
+  "lat": -16.4947183,
+  "lon": -68.1351234
+},
+{
+  "type": "node",
+  "id": 4365268533,
+  "lat": -16.4944494,
+  "lon": -68.1349490
+},
+{
+  "type": "node",
+  "id": 1617195362,
+  "lat": -16.4982056,
+  "lon": -68.1360045
+},
+{
+  "type": "node",
+  "id": 2038601893,
+  "lat": -16.4981290,
+  "lon": -68.1363434
+},
+{
+  "type": "node",
+  "id": 2038601896,
+  "lat": -16.4979851,
+  "lon": -68.1361102
+},
+{
+  "type": "node",
+  "id": 2038607096,
+  "lat": -16.4980364,
+  "lon": -68.1360485
+},
+{
+  "type": "node",
+  "id": 2038607097,
+  "lat": -16.4980827,
+  "lon": -68.1359841
+},
+{
+  "type": "node",
+  "id": 2038607098,
+  "lat": -16.4981753,
+  "lon": -68.1362602
+},
+{
+  "type": "node",
+  "id": 2038607099,
+  "lat": -16.4981522,
+  "lon": -68.1359358
+},
+{
+  "type": "node",
+  "id": 2038607100,
+  "lat": -16.4982087,
+  "lon": -68.1363650
+},
+{
+  "type": "node",
+  "id": 2038607101,
+  "lat": -16.4983039,
+  "lon": -68.1362146
+},
+{
+  "type": "node",
+  "id": 2038607102,
+  "lat": -16.4983142,
+  "lon": -68.1361960
+},
+{
+  "type": "node",
+  "id": 2038607103,
+  "lat": -16.4981059,
+  "lon": -68.1363086
+},
+{
+  "type": "node",
+  "id": 2038607104,
+  "lat": -16.4983399,
+  "lon": -68.1363167
+},
+{
+  "type": "node",
+  "id": 2048759158,
+  "lat": -16.4925406,
+  "lon": -68.1360081
+},
+{
+  "type": "node",
+  "id": 2048759160,
+  "lat": -16.4926794,
+  "lon": -68.1361047
+},
+{
+  "type": "node",
+  "id": 2048759162,
+  "lat": -16.4925509,
+  "lon": -68.1363246
+},
+{
+  "type": "node",
+  "id": 2048759164,
+  "lat": -16.4924197,
+  "lon": -68.1362227
+},
+{
+  "type": "node",
+  "id": 2975448172,
+  "lat": -16.4933899,
+  "lon": -68.1327118
+},
+{
+  "type": "node",
+  "id": 2975448173,
+  "lat": -16.4936177,
+  "lon": -68.1328550
+},
+{
+  "type": "node",
+  "id": 2975448174,
+  "lat": -16.4936948,
+  "lon": -68.1327215
+},
+{
+  "type": "node",
+  "id": 2975448175,
+  "lat": -16.4934671,
+  "lon": -68.1325783
+},
+{
+  "type": "node",
+  "id": 4342022105,
+  "lat": -16.4958657,
+  "lon": -68.1358504
+},
+{
+  "type": "node",
+  "id": 4342022107,
+  "lat": -16.4958979,
+  "lon": -68.1361914
+},
+{
+  "type": "node",
+  "id": 4342022108,
+  "lat": -16.4959159,
+  "lon": -68.1359984
+},
+{
+  "type": "node",
+  "id": 4342022110,
+  "lat": -16.4959660,
+  "lon": -68.1359214
+},
+{
+  "type": "node",
+  "id": 4342022111,
+  "lat": -16.4959895,
+  "lon": -68.1360506
+},
+{
+  "type": "node",
+  "id": 4342022103,
+  "lat": -16.4957239,
+  "lon": -68.1360682
+},
+{
+  "type": "node",
+  "id": 1391504145,
+  "lat": -16.4960927,
+  "lon": -68.1337678
+},
+{
+  "type": "node",
+  "id": 1391504147,
+  "lat": -16.4958840,
+  "lon": -68.1341284
+},
+{
+  "type": "node",
+  "id": 1391504148,
+  "lat": -16.4964866,
+  "lon": -68.1345098
+},
+{
+  "type": "node",
+  "id": 4160070010,
+  "lat": -16.4966971,
+  "lon": -68.1341514
+},
+{
+  "type": "node",
+  "id": 4160070011,
+  "lat": -16.4963656,
+  "lon": -68.1339396
+},
+{
+  "type": "node",
+  "id": 4392922182,
+  "lat": -16.4967881,
+  "lon": -68.1367281
+},
+{
+  "type": "node",
+  "id": 4392922183,
+  "lat": -16.4969052,
+  "lon": -68.1369374
+},
+{
+  "type": "node",
+  "id": 4392922187,
+  "lat": -16.4969668,
+  "lon": -68.1369984
+},
+{
+  "type": "node",
+  "id": 4392922730,
+  "lat": -16.4968945,
+  "lon": -68.1366118
+},
+{
+  "type": "node",
+  "id": 4392922731,
+  "lat": -16.4970430,
+  "lon": -68.1368843
+},
+{
+  "type": "node",
+  "id": 4342021877,
+  "lat": -16.4912610,
+  "lon": -68.1384277
+},
+{
+  "type": "node",
+  "id": 4342021878,
+  "lat": -16.4913677,
+  "lon": -68.1382812
+},
+{
+  "type": "node",
+  "id": 4342021879,
+  "lat": -16.4914302,
+  "lon": -68.1385617
+},
+{
+  "type": "node",
+  "id": 4342021880,
+  "lat": -16.4915369,
+  "lon": -68.1384152
+},
+{
+  "type": "node",
+  "id": 804305900,
+  "lat": -16.4916106,
+  "lon": -68.1357454
+},
+{
+  "type": "node",
+  "id": 804305907,
+  "lat": -16.4917183,
+  "lon": -68.1358443
+},
+{
+  "type": "node",
+  "id": 804305916,
+  "lat": -16.4918874,
+  "lon": -68.1356440
+},
+{
+  "type": "node",
+  "id": 804305921,
+  "lat": -16.4917797,
+  "lon": -68.1355451
+},
+{
+  "type": "node",
+  "id": 3681278255,
+  "lat": -16.4737960,
+  "lon": -68.1512496
+},
+{
+  "type": "node",
+  "id": 3681278256,
+  "lat": -16.4739010,
+  "lon": -68.1512117
+},
+{
+  "type": "node",
+  "id": 3681278257,
+  "lat": -16.4739122,
+  "lon": -68.1512685
+},
+{
+  "type": "node",
+  "id": 3681278258,
+  "lat": -16.4738206,
+  "lon": -68.1513220
+},
+{
+  "type": "node",
+  "id": 3681278259,
+  "lat": -16.4735101,
+  "lon": -68.1512648
+},
+{
+  "type": "node",
+  "id": 3681278260,
+  "lat": -16.4737016,
+  "lon": -68.1512371
+},
+{
+  "type": "node",
+  "id": 3681278261,
+  "lat": -16.4736988,
+  "lon": -68.1511977
+},
+{
+  "type": "node",
+  "id": 3681278262,
+  "lat": -16.4736792,
+  "lon": -68.1511220
+},
+{
+  "type": "node",
+  "id": 3681278263,
+  "lat": -16.4736652,
+  "lon": -68.1510622
+},
+{
+  "type": "node",
+  "id": 3681278264,
+  "lat": -16.4736222,
+  "lon": -68.1510777
+},
+{
+  "type": "node",
+  "id": 3681278265,
+  "lat": -16.4735747,
+  "lon": -68.1510908
+},
+{
+  "type": "node",
+  "id": 3681278266,
+  "lat": -16.4735669,
+  "lon": -68.1510602
+},
+{
+  "type": "node",
+  "id": 3681278267,
+  "lat": -16.4734919,
+  "lon": -68.1510812
+},
+{
+  "type": "node",
+  "id": 3681278268,
+  "lat": -16.4734919,
+  "lon": -68.1511118
+},
+{
+  "type": "node",
+  "id": 3681278269,
+  "lat": -16.4737008,
+  "lon": -68.1512256
+},
+{
+  "type": "node",
+  "id": 3681281963,
+  "lat": -16.4735072,
+  "lon": -68.1510767
+},
+{
+  "type": "node",
+  "id": 4368434701,
+  "lat": -16.4937530,
+  "lon": -68.1240935
+},
+{
+  "type": "node",
+  "id": 4368434702,
+  "lat": -16.4938824,
+  "lon": -68.1241140
+},
+{
+  "type": "node",
+  "id": 4368434703,
+  "lat": -16.4939058,
+  "lon": -68.1239535
+},
+{
+  "type": "node",
+  "id": 4368434704,
+  "lat": -16.4937764,
+  "lon": -68.1239330
+},
+{
+  "type": "node",
+  "id": 4369362202,
+  "lat": -16.4969835,
+  "lon": -68.1243156
+},
+{
+  "type": "node",
+  "id": 4369362203,
+  "lat": -16.4969858,
+  "lon": -68.1243278
+},
+{
+  "type": "node",
+  "id": 4369362204,
+  "lat": -16.4969881,
+  "lon": -68.1243396
+},
+{
+  "type": "node",
+  "id": 4369362206,
+  "lat": -16.4969951,
+  "lon": -68.1243132
+},
+{
+  "type": "node",
+  "id": 4369362208,
+  "lat": -16.4969995,
+  "lon": -68.1243373
+},
+{
+  "type": "node",
+  "id": 4369362209,
+  "lat": -16.4970065,
+  "lon": -68.1243109
+},
+{
+  "type": "node",
+  "id": 4369362210,
+  "lat": -16.4970088,
+  "lon": -68.1243228
+},
+{
+  "type": "node",
+  "id": 4369362212,
+  "lat": -16.4970111,
+  "lon": -68.1243349
+},
+{
+  "type": "node",
+  "id": 4349254896,
+  "lat": -16.4837554,
+  "lon": -68.1217692
+},
+{
+  "type": "node",
+  "id": 4349254898,
+  "lat": -16.4837671,
+  "lon": -68.1219795
+},
+{
+  "type": "node",
+  "id": 4349254915,
+  "lat": -16.4838264,
+  "lon": -68.1217649
+},
+{
+  "type": "node",
+  "id": 4349254917,
+  "lat": -16.4838381,
+  "lon": -68.1219752
+}
+
+  ]
+}
