@@ -55,8 +55,7 @@
             var element = obj["elements"];
             element.forEach(function (item) {
                 console.log(item);
-                L.marker([item.lat,item.lon ]).addTo(mymap)
- // 	.bindPopup("<b>Hola!</b><br />Bolivia").openPopup();
+                L.marker([item.lat,item.lon ]).addTo(mymap).bindPopup("<b>"+item.tags.name+"</b>").openPopup();
             })
            });
 
